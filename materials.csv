@@ -1,0 +1,5 @@
+material_id,name,type,co2_per_ton,strength_MPa,cost_per_ton,durability_years
+M01,OPC,traditional,900,40,4500,50
+M02,FlyAsh,traditional,600,35,3500,45
+M03,Biocement_A,biocement,300,32,3800,60
+M04,Biocement_B,biocement,250,28,3600,55
