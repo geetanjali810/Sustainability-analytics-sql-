@@ -9,3 +9,6 @@ Analyzes CO₂ emissions, strength, cost, and durability of traditional cement v
 ## Insights
 - Biocement emits ~30% less CO₂ per ton
 - Cost-to-strength ratio highlights efficiency trade-offs
+
+### Results
+![Average CO₂ per ton by material type](sustainability_avg_co2.png)
